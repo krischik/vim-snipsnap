@@ -1,14 +1,11 @@
 "------------------------------------------------------------------------------
 "  Description: Perform SnipSnap specific completion & tagging.
 "     Language: Snip Snap Wiki
-"	   $Id: snipsnap.vim,v 1.1 2006/11/22 14:13:23 krischikm Exp $
+"    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer: Martin Krischik
-"      $Author: krischikm $
-"	 $Date: 2006/11/22 14:13:23 $
-"      Version: 0.1
-"    $Revision: 1.1 $
-"     $HeadURL: https://svn.sourceforge.net/svnroot/gnuada/trunk/tools/vim/ftplugin/ada.vim $
+"      Version: 0.2
 "      History: 20.11.2006 MK SnipSnap Wiki Syntax
+"               28.08.2022 MK Make deim compatible
 "    Help Page: ft-snipsnap-plugin
 "------------------------------------------------------------------------------
 
@@ -67,9 +64,8 @@ unlet s:cpoptions
 finish " 1}}}
 
 "------------------------------------------------------------------------------
-"   Copyright (C) 2006	Martin Krischik
-"
 "   Vim is Charityware - see ":help license" or uganda.txt for licence details.
 "------------------------------------------------------------------------------
-" vim: textwidth=78 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab
-" vim: foldmethod=marker nospell
+" vim: set textwidth=78 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab :
+" vim: set filetype=vim fileencoding=utf-8 fileformat=unix foldmethod=marker :
+" vim: set nospell spelllang=en :

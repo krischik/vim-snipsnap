@@ -1,15 +1,11 @@
 "- -----------------------------------------------------------------------------
 "  Description: Snip Snap detection file
 "     Language: Snip Snap Wiki
-"          $Id: snipsnap.vim,v 1.2 2006/11/24 12:05:04 krischikm Exp $
-"    Copyright: Copyright (C) 2006 Martin Krischik
+"    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer: Martin Krischik
-"      $Author: krischikm $
-"	 $Date: 2006/11/24 12:05:04 $
-"      Version: 0.1
-"    $Revision: 1.2 $
-"     $HeadURL: https://svn.sourceforge.net/svnroot/gnuada/trunk/tools/vim/ftdetect/ada.vim $
+"      Version: 0.2
 "      History: 20.11.2006 MK SnipSnap Wiki Syntax
+"               28.08.2022 MK Make deim compatible
 "    Help Page: ft-snipnap-plugin
 "------------------------------------------------------------------------------
 
@@ -24,9 +20,8 @@ autocmd BufNewFile,BufRead *.snipsnap setfiletype snipsnap
 finish " 1}}}
 
 "------------------------------------------------------------------------------
-"   Copyright (C) 2006	Martin Krischik
-"
 "   Vim is Charityware - see ":help license" or uganda.txt for licence details.
 "------------------------------------------------------------------------------
-" vim: textwidth=78 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab
-" vim: foldmethod=marker
+" vim: set textwidth=78 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab :
+" vim: set filetype=vim fileencoding=utf-8 fileformat=unix foldmethod=marker :
+" vim: set nospell spelllang=en :
