@@ -3,7 +3,7 @@
 "     Language: Snip Snap Wiki
 "    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer:	Martin Krischik
-"      Version: 0.1
+"      Version: 0.2
 "      History:	17.11.2006 MK wls_Options
 "               28.08.2022 MK Make deim compatible
 "	 Usage: copy content into your .vimrc and change options to your

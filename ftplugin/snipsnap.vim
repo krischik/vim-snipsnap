@@ -3,7 +3,7 @@
 "     Language: Snip Snap Wiki
 "    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer: Martin Krischik
-"      Version: 0.1
+"      Version: 0.2
 "      History: 20.11.2006 MK SnipSnap Wiki Syntax
 "               28.08.2022 MK Make deim compatible
 "    Help Page: ft-snipsnap-plugin

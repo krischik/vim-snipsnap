@@ -3,7 +3,7 @@
 "     Language: Snip Snap Wiki
 "    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer:	Martin Krischik
-"      Version: 0.1
+"      Version: 0.2
 "	  Note:	Tried and Tested for 'builtin_gui', 'xterm' (KDE Konsole)
 "		'vt320'" (OpenVMS) and 'linux' (Linux Console).
 "      History: 16.05.2006 MK Check that all vim 7.0 colors are set
