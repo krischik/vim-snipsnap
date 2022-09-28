@@ -1,13 +1,9 @@
 "-------------------------------------------------------------------------------
 "  Description: My personal colors
-"          $Id: martin_krischik.vim 465 2006-11-22 18:01:07Z krischik $
-"    Copyright: Copyright (C) 2006 Martin Krischik
+"     Language: Snip Snap Wiki
+"    Copyright: Copyright (C) 2006 … 2022 Martin Krischik
 "   Maintainer:	Martin Krischik
-"      $Author: krischik $
-"        $Date: 2006-11-22 19:01:07 +0100 (Mi, 22 Nov 2006) $
-"      Version: 3.2
-"    $Revision: 465 $
-"     $HeadURL: https://svn.sourceforge.net/svnroot/gnuada/trunk/tools/vim/colors/martin_krischik.vim $
+"      Version: 0.1
 "	  Note:	Tried and Tested for 'builtin_gui', 'xterm' (KDE Konsole)
 "		'vt320'" (OpenVMS) and 'linux' (Linux Console).
 "      History: 16.05.2006 MK Check that all vim 7.0 colors are set
@@ -15,6 +11,7 @@
 "		24.05.2006 MK Unified Headers
 "		24.07.2006 MK Omni-Completion Colors.
 "               15.10.2006 MK Bram's suggestion for runtime integration
+"               28.08.2022 MK Make deim compatible
 "	 Usage: copy to colors directory
 "------------------------------------------------------------------------------
 
@@ -410,9 +407,8 @@ else
 endif
 
 "------------------------------------------------------------------------------
-"   Copyright (C) 2006  Martin Krischik
-"
 "   Vim is Charityware - see ":help license" or uganda.txt for licence details.
 "------------------------------------------------------------------------------
-" vim: nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab
-" vim: filetype=vim foldmethod=marker textwidth=0
+" vim: set textwidth=0 nowrap tabstop=8 shiftwidth=3 softtabstop=3 noexpandtab :
+" vim: set filetype=vim fileencoding=utf-8 fileformat=unix foldmethod=marker :
+" vim: set nospell spelllang=en :
