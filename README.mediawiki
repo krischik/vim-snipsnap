@@ -1,0 +1,45 @@
+= SnipSnap Bundle =
+
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1768
+
+== Description ==
+
+Syntax and Filetype plugin for [http://www.snipsnap.org/space/start SnipSnap Wiki].
+
+Use together with [http://martin.krischik.com/index.php/Main/EditusExternus.Editus Externus]
+and [http://www.mozilla.com/firefox FireFox] for easy editing of SnipSnap Wiki pages.
+
+== Installation ==
+
+Install from https://github.com/krischik/vim-snipsnap using dein (https://github.com/Shougo/dein.vim) or similar:
+
+{{code|lang=vim|
+call dein#begin('$HOME/vimfiles/bundles')
+call dein#add('krischik/vim-snipsnap')
+call dein#end()
+call dein#install()
+}}
+
+== References ==
+
+{|
+|+ SnipSnap Bundle
+|-
+| Vim-Script	|| https://www.vim.org/scripts/script.php?script_id=1768
+|-
+| Source	|| https://github.com/krischik/vim-snipsnap
+|-
+| Wiki		|| https://github.com/krischik/vim-snipsnap/wiki
+|-
+| Releases	|| https://github.com/krischik/vim-snipsnap/releases
+|-
+| Issues	|| https://github.com/krischik/vim-snipsnap/issues
+|-
+| Discussions	|| https://github.com/krischik/vim-snipsnap/discussions
+|}
+
+==Comments==
+
+/* vim: set textwidth=0 wrap tabstop=8 shiftwidth=4 softtabstop=4 noexpandtab : */
+/* vim: set filetype=mediawiki fileencoding=utf8 fileformat=unix foldmethod=marker : */
+/* vim: set nospell spelllang=en_gb : */
