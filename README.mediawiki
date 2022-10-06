@@ -13,12 +13,10 @@ and [http://www.mozilla.com/firefox FireFox] for easy editing of SnipSnap Wiki p
 
 Install from https://github.com/krischik/vim-snipsnap using dein (https://github.com/Shougo/dein.vim) or similar:
 
-{{code|lang=vim|
-call dein#begin('$HOME/vimfiles/bundles')
-call dein#add('krischik/vim-snipsnap')
-call dein#end()
-call dein#install()
-}}
+    call dein#begin('$HOME/vimfiles/bundles')
+    call dein#add('krischik/vim-snipsnap')
+    call dein#end()
+    call dein#install()
 
 == References ==
 
